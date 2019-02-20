@@ -1,3 +1,3 @@
-s=raw_input()
-p=s[::-1]
+n=raw_input()
+p=n[::-1]
 print(p)
