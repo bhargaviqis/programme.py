@@ -1,2 +1,2 @@
-n=input()
+n=raw_input()
 print(' '.join(n))
