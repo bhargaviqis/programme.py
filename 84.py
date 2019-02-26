@@ -1,2 +1,2 @@
-ch=input(" ")
+ch=input()
 print(ord(ch))
